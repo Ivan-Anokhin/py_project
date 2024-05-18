@@ -1,7 +1,7 @@
-def add_two_num(a, b):
+def fun_one(a, b):
     s = a+b
     return s
 
-def sub_two_num(a, b):
+def fun_two(a, b):
     s = a-b
     return s
